@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/home/kompuxter/boxes/1002096_0.jpg'>
+    <box top='2' left='2' width='691' height='573'/>
+  </image>
+  <image file='/home/kompuxter/boxes/1200px-Simple_cardboard_box.svg.png'>
+    <box top='10' left='72' width='1061' height='795'/>
+  </image>
+  <image file='/home/kompuxter/boxes/13267a90d02170a7ab5471b6868ab9d6.png'>
+    <box top='0' left='0' width='865' height='641'/>
+  </image>
+  <image file='/home/kompuxter/boxes/38l.jpg'>
+    <box top='146' left='82' width='345' height='269'/>
+  </image>
+  <image file='/home/kompuxter/boxes/5631_small.jpg'>
+    <box top='34' left='42' width='267' height='229'/>
+  </image>
+  <image file='/home/kompuxter/boxes/6007724421.jpg'>
+    <box top='136' left='116' width='731' height='541'/>
+  </image>
+  <image file='/home/kompuxter/boxes/_23R2200-1.jpg'>
+    <box top='16' left='90' width='311' height='273'/>
+  </image>
+  <image file='/home/kompuxter/boxes/box1.jpg'>
+    <box top='44' left='10' width='269' height='221'/>
+  </image>
+  <image file='/home/kompuxter/boxes/box_PNG136.png'>
+    <box top='0' left='12' width='1879' height='1474'/>
+  </image>
+  <image file='/home/kompuxter/boxes/box_PNG84.png'>
+    <box top='246' left='9' width='886' height='640'/>
+  </image>
+  <image file='/home/kompuxter/boxes/chetirex-klapannaya-korobka-210x135x135-4-l-1154-640x480.jpg'>
+    <box top='27' left='36' width='565' height='427'/>
+  </image>
+  <image file='/home/kompuxter/boxes/ecocake6000_153-1.jpg'>
+    <box top='24' left='12' width='334' height='220'/>
+  </image>
+  <image file='/home/kompuxter/boxes/korobka34.jpg'>
+    <box top='45' left='0' width='378' height='289'/>
+  </image>
+  <image file='/home/kompuxter/boxes/shop_property_file_164_135.jpg'>
+    <box top='113' left='42' width='388' height='242'/>
+  </image>
+  <image file='/home/kompuxter/boxes/unnamed.jpg'>
+    <box top='50' left='10' width='494' height='418'/>
+  </image>
+  <image file='/home/kompuxter/boxes/Коробка-картонная-500x500x500.jpg'>
+    <box top='44' left='28' width='921' height='733'/>
+  </image>
+  <image file='/home/kompuxter/boxes/Коробка_№11_(с_ручками).jpg'>
+    <box top='24' left='172' width='491' height='491'/>
+  </image>
+</images>
+</dataset>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/home/kompuxter/faces_train/Aaron_Eckhart_0001.jpg'>
+    <box top='87' left='86' width='78' height='103'/>
+  </image>
+  <image file='/home/kompuxter/faces_train/Aaron_Guiel_0001.jpg'>
+    <box top='75' left='71' width='97' height='123'/>
+  </image>
+  <image file='/home/kompuxter/faces_train/Aaron_Patterson_0001.jpg'>
+    <box top='87' left='82' width='93' height='96'/>
+  </image>
+  <image file='/home/kompuxter/faces_train/Aaron_Peirsol_0001.jpg'>
+    <box top='80' left='87' width='80' height='98'/>
+  </image>
+  <image file='/home/kompuxter/faces_train/Aaron_Peirsol_0002.jpg'>
+    <box top='81' left='81' width='84' height='104'/>
+  </image>
+  <image file='/home/kompuxter/faces_train/Aaron_Peirsol_0003.jpg'>
+    <box top='76' left='83' width='83' height='97'/>
+  </image>
+  <image file='/home/kompuxter/faces_train/Aaron_Peirsol_0004.jpg'>
+    <box top='75' left='90' width='86' height='108'/>
+  </image>
+  <image file='/home/kompuxter/faces_train/Aaron_Pena_0001.jpg'>
+    <box top='84' left='82' width='96' height='107'/>
+  </image>
+  <image file='/home/kompuxter/faces_train/Aaron_Sorkin_0001.jpg'>
+    <box top='79' left='69' width='95' height='119'/>
+  </image>
+  <image file='/home/kompuxter/faces_train/Aaron_Sorkin_0002.jpg'>
+    <box top='84' left='87' width='83' height='103'/>
+  </image>
+  <image file='/home/kompuxter/faces_train/Aaron_Tippin_0001.jpg'>
+    <box top='73' left='73' width='87' height='109'/>
+  </image>
+  <image file='/home/kompuxter/faces_train/Abba_Eban_0001.jpg'>
+    <box top='78' left='82' width='90' height='121'/>
+  </image>
+  <image file='/home/kompuxter/faces_train/Abbas_Kiarostami_0001.jpg'>
+    <box top='71' left='77' width='88' height='112'/>
+  </image>
+  <image file='/home/kompuxter/faces_train/Abdel_Aziz_Al-Hakim_0001.jpg'>
+    <box top='77' left='78' width='83' height='105'/>
+    <box top='103' left='192' width='41' height='66'/>
+  </image>
+  <image file='/home/kompuxter/faces_train/Abdel_Madi_Shabneh_0001.jpg'>
+    <box top='84' left='81' width='86' height='104'/>
+  </image>
+  <image file='/home/kompuxter/faces_train/Abdel_Nasser_Assidi_0001.jpg'>
+    <box top='72' left='85' width='87' height='115'/>
+  </image>
+  <image file='/home/kompuxter/faces_train/Abdel_Nasser_Assidi_0002.jpg'>
+    <box top='66' left='87' width='82' height='108'/>
+    <box top='150' left='203' width='37' height='40'/>
+  </image>
+</images>
+</dataset>
